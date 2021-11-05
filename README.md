@@ -13,13 +13,13 @@ Before you play the game you need to install required  modules since it is a rea
 Run:
 ```
 npm install 
-
 ```
 Finally start the application 
 ```
 npm run start 
 ```
-Go to localhost port 3000 to play the game 
+
+Go to localhost port 3000 on your browser to play the game 
 <h3> End ! </h3>
 Hope you enjoyed the trivia.
 

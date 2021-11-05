@@ -3,14 +3,17 @@ One Hot Trivia is a trivia game (application built in react ).
 
 <h3>Installation </h3>
 To get this web application locally om your computer, clone this github repository 
+
 ```
 git clone https://github.com/Brian254ke/oneHotTrivia.git
 ```
+
 Now Navigate to the directory where you have cloned this github repository and run
 
 <h3>Play The Game </h3>
 Before you play the game you need to install required  modules since it is a react application.
 Run:
+
 ```
 npm install 
 ```

@@ -14,7 +14,9 @@ Run:
 ```
 npm install 
 ```
+
 Finally start the application 
+
 ```
 npm run start 
 ```
